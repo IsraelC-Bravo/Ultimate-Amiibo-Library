@@ -7,7 +7,7 @@ A fully responsive, original, and beautiful Amiibo library to get all info you n
 
 ## How It's Made:
 
-**Tech used:** HTML, CSS, JavaScript
+**Tech used:** HTML, CSS, JavaScript, Api
 
 I started with a simple HTML for content and structure, CSS for rwd, background & layout. After that, JS to fetch the public API and interaction. 
 
