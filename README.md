@@ -3,7 +3,7 @@
 A fully responsive, original, and beautiful Amiibo library to get all info you need from your favorite Amiibo
 **Link:** https://ultimate-amiibo-library.netlify.app/
 
-![alt tag](https://i.imgur.com/nfekaBf.png)
+![alt tag](https://i.imgur.com/fhhbwFi.gif)
 
 ## How It's Made:
 
